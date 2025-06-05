@@ -18,13 +18,13 @@ This repository contains the source code, data, and supplementary materials for 
 
 ## Architecture Overview
 
-The architecture of our ESPRESSO framework consists of four main components:
+The architecture of our XXXX framework consists of four main components:
 1. **Indexing app** - A Solid application that indexes data stores and maintains pod indexes.
 2. **Search app** - Performs searches across Solid servers’ pods.
 3. **Overlay network** - Connects multiple Solid servers hosting data stores.
 4. **Metadata manager** - Keeps the source selection metadata up-to-date.
 
-![ESPRESSO Architecture](Figs-Plots/figures/ESPRESSOArchRepo.png)
+![XXXX Architecture](Figs-Plots/figures/XXXXArchRepo.png)
 
 
 ## System Demo
@@ -72,7 +72,7 @@ Our experiments simulate a **decentralized federated health data network**, wher
 - **Synthetic healthcare dataset** generated using **Synthea**.
 - **Differential access control** assigned to search parties (ranging from 5% to 100% access levels).
 
-![ESPRESSO Architecture](Figs-Plots/figures/infrastructure.png)
+![XXXX Architecture](Figs-Plots/figures/infrastructure.png)
 
 <!-- ### Citation
 If you use this code or dataset in your research, please cite our paper:
