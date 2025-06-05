@@ -18,7 +18,7 @@ This repository contains the source code, data, and supplementary materials for 
 
 ## Architecture Overview
 
-The architecture of our XXXX framework consists of four main components:
+The architecture of our XXXX framework (Details redacted to comply with double-blind reviewing ) consists of four main components:
 1. **Indexing app** - A Solid application that indexes data stores and maintains pod indexes.
 2. **Search app** - Performs searches across Solid servers’ pods.
 3. **Overlay network** - Connects multiple Solid servers hosting data stores.
