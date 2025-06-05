@@ -24,7 +24,7 @@ The architecture of our XXXX framework consists of four main components:
 3. **Overlay network** - Connects multiple Solid servers hosting data stores.
 4. **Metadata manager** - Keeps the source selection metadata up-to-date.
 
-![XXXX Architecture](Figs-Plots/figures/XXXXArchRepo.png)
+![XXXX Architecture](Figs-Plots/figures/ESPRESSOArchRepo.png)
 
 
 ## System Demo
